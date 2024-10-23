@@ -56,5 +56,4 @@ pip install Pillow
 
 Given a folder of emojis, the script will generate grid images, with each emoji placed multiple times in a grid format. Example output file names would be: `1.png`, `2.png`, etc.
 
-
-
+![ハート](https://github.com/user-attachments/assets/ece05d17-7f04-4ec1-a74b-f3ce8fb8b15a)
