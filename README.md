@@ -23,7 +23,7 @@ pip install Pillow
 
 1. **Clone the repository** (or download the script):
    ```bash
-   git clone https://github.com/yourusername/emoji-grid-generator.git
+   git clone https://github.com/marc-alexis-com/emoji-grid-python.git
    ```
 
 2. **Prepare your emoji folder**:
