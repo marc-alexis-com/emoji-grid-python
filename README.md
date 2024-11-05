@@ -28,6 +28,7 @@ pip install Pillow
 
 2. **Prepare your emoji folder**:
    - Place all your emoji `.png` files in a folder (e.g., `emoji-selectionnes`).
+   - You can download them with [this project made by akfreas 💖](https://github.com/akfreas/emoji-extractor-plus)
 
 3. **Run the script**:
 
